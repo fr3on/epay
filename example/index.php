@@ -252,7 +252,7 @@ include 'header.php';
     </div>
     <!-- /Payment form end from here -->
     <footer class="footer bg-light p-4 text-center">
-        EPay - 1.2.0 - <small class="text-muted"> PHP ready to use Payment Gateway Integrations</small> by <a href="https://fr30n.com">Fr30n</a>
+        EPay - <small class="text-muted"> PHP ready to use Payment Gateway Integrations</small> by <a href="https://fr30n.com">Fr3on</a>
     </footer>
 </body>
 <!-- /Page body end from here... -->
