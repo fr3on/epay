@@ -11,7 +11,7 @@ class ComposerStaticInit5148e188e7361e3bf5ff82f5def0b270
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '3e76f7f02b41af8cea96018933f6b7e3' => __DIR__ . '/..' . '/hoa/protocol/Wrapper.php',
         'da253f61703e9c22a5a34f228526f05a' => __DIR__ . '/..' . '/wixel/gump/gump.class.php',
-        'be6db7861e0764aaa719a6c7950cf56c' => __DIR__ . '/../..' . '/livelyworks/app/Support/app-helpers.php',
+        'be6db7861e0764aaa719a6c7950cf56c' => __DIR__ . '/../..' . '/fr3on/app/Support/app-helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
