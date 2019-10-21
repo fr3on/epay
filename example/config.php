@@ -4,7 +4,7 @@ $techAppConfig = [
 
     /* Base Path of app
     ------------------------------------------------------------------------- */
-    'base_url' =>  'Your base URL to example/ folder',
+    'base_url' =>  'https://epay.fr30n.com/',
 
     'payments' => [
         /* Gateway Configuration key
